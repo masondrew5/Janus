@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CustomView">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CustomView.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
